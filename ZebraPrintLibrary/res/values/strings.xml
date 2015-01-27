@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Zebra Printing Library</string>
+    <string name="cfgConnect">Connect</string>
+    <string name="cfgDisconnect">Disconnect</string>
+
+</resources>
